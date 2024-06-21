@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+
+.header-left {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.header-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7Eb;
+    font-size: 18px;
+}
+
+.second-header{
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+}
+
+.main-text {
+    font-size: 48px;
+    color: #F9FAF8;
+}
