@@ -6,6 +6,4 @@ Ive been given the template to a webpage and I will try to mimic it on my own wi
 
 There will be one html file and one CSS file 
 
-Im also new to commit messages but will try to really implement them into this project on my Github repo 
-
-test test 
+Im also new to commit messages but will try to really implement them into this project on my Github repo
