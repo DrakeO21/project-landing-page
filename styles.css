@@ -68,13 +68,12 @@ p {
     font-size: 18px;
 }
 
-button {
+.button-1 {
     width: 100px;
     height: 30px;
     background-color: #3882f6;
     color: white;
     border-radius: 25px;
-    flex-shrink: 1;
 }
 
 .placeholder-img {
@@ -148,4 +147,31 @@ button {
     display: flex;
     width: 750px;
     justify-content: end;
+}
+
+.last-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.last-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    width: 900px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.button-2 {
+    width: 125px;
+    height: 30px;
+    font-size: 18px;
+    background-color: #3882f6;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
 }
